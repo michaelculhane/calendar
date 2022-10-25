@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="test">07d5c2b01bba99107bbb55f3604bcb56</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+        <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+        <sys_id>03d5c2b01bba99107bbb55f3604bcb57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>07d5c2b01bba99107bbb55f3604bcb56</sys_name>
+        <sys_package display_value="Collaboration Calendar" source="sn_collab_calendar">ff641c7cc3433010740c9502d840dd78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collaboration Calendar">ff641c7cc3433010740c9502d840dd78</sys_scope>
+        <sys_update_name>sys_report_users_groups_03d5c2b01bba99107bbb55f3604bcb57</sys_update_name>
+        <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+        <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        <user_id display_value="Michael Culhane">5b1c39cb1b261510fded1066b04bcbec</user_id>
+    </sys_report_users_groups>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Collaboration Calendar">ff641c7cc3433010740c9502d840dd78</claim_owner_scope>
+        <claim_timestamp>1840cf7ecab0000001</claim_timestamp>
+        <metadata_update_name>sys_report_users_groups_03d5c2b01bba99107bbb55f3604bcb57</metadata_update_name>
+        <previous_claim_app_version>1.3.0</previous_claim_app_version>
+        <previous_claim_name>Collaboration Calendar</previous_claim_name>
+        <previous_claim_scope>ff641c7cc3433010740c9502d840dd78</previous_claim_scope>
+        <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+        <sys_created_on>2022-10-25 02:28:05</sys_created_on>
+        <sys_id>9016c6b01bba99107bbb55f3604bcbff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+        <sys_updated_on>2022-10-25 02:28:05</sys_updated_on>
+    </sys_claim>
+</record_update>

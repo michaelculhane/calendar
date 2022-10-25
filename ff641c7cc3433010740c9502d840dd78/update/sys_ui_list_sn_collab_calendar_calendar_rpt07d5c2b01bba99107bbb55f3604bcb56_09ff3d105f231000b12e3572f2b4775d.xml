@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sn_collab_calendar_calendar" version="2" view="RPT07d5c2b01bba99107bbb55f3604bcb56">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>53d506b01bba99107bbb55f3604bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>d3d506b01bba99107bbb55f3604bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>57d506b01bba99107bbb55f3604bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owner</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>d7d506b01bba99107bbb55f3604bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>calendar_url</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>5bd506b01bba99107bbb55f3604bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>use_default_table</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>dbd506b01bba99107bbb55f3604bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>time_zone</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>5fd506b01bba99107bbb55f3604bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>language</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>dfd506b01bba99107bbb55f3604bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>allow_event_creation</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>53d506b01bba99107bbb55f3604bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>color</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>d3d506b01bba99107bbb55f3604bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>57d506b01bba99107bbb55f3604bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>condition_builder</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>d7d506b01bba99107bbb55f3604bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>5bd506b01bba99107bbb55f3604bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>dbd506b01bba99107bbb55f3604bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>5fd506b01bba99107bbb55f3604bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>event_end_field</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>dfd506b01bba99107bbb55f3604bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>event_start_field</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>53d506b01bba99107bbb55f3604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>override_table_access</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>d3d506b01bba99107bbb55f3604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>is_public</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>57d506b01bba99107bbb55f3604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>set_multiple_categories_per_event</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>d7d506b01bba99107bbb55f3604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>source_table_for_events</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>5bd506b01bba99107bbb55f3604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>dbd506b01bba99107bbb55f3604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>primary_field</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>5fd506b01bba99107bbb55f3604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>dfd506b01bba99107bbb55f3604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>53d506b01bba99107bbb55f3604bcbac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_mod_count</element>
+            <list_id display_value="sn_collab_calendar_calendar" element="NULL" name="sn_collab_calendar_calendar" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="d7d506b01bba99107bbb55f3604bcba7">57d506b01bba99107bbb55f3604bcba8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_id>d3d506b01bba99107bbb55f3604bcbac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sn_collab_calendar_calendar</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+            <sys_created_on>2022-10-25 02:27:11</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!$/!!#/!!!/</sys_domain_path>
+            <sys_id>57d506b01bba99107bbb55f3604bcba8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_collab_calendar_calendar</sys_name>
+            <sys_package display_value="Collaboration Calendar" source="sn_collab_calendar">ff641c7cc3433010740c9502d840dd78</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Collaboration Calendar">ff641c7cc3433010740c9502d840dd78</sys_scope>
+            <sys_update_name>sys_ui_list_sn_collab_calendar_calendar_RPT07d5c2b01bba99107bbb55f3604bcb56_09ff3d105f231000b12e3572f2b4775d</sys_update_name>
+            <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+            <sys_updated_on>2022-10-25 02:27:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt07d5c2b01bba99107bbb55f3604bcb56" name="RPT07d5c2b01bba99107bbb55f3604bcb56">d7d506b01bba99107bbb55f3604bcba7</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Collaboration Calendar">ff641c7cc3433010740c9502d840dd78</claim_owner_scope>
+        <claim_timestamp>1840cf7ec9c0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_list_sn_collab_calendar_calendar_RPT07d5c2b01bba99107bbb55f3604bcb56_09ff3d105f231000b12e3572f2b4775d</metadata_update_name>
+        <previous_claim_app_version>1.3.0</previous_claim_app_version>
+        <previous_claim_name>Collaboration Calendar</previous_claim_name>
+        <previous_claim_scope>ff641c7cc3433010740c9502d840dd78</previous_claim_scope>
+        <sys_created_by>Michael.Culhane@nuaxis.com</sys_created_by>
+        <sys_created_on>2022-10-25 02:28:05</sys_created_on>
+        <sys_id>9816c6b01bba99107bbb55f3604bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Michael.Culhane@nuaxis.com</sys_updated_by>
+        <sys_updated_on>2022-10-25 02:28:05</sys_updated_on>
+    </sys_claim>
+</record_update>
